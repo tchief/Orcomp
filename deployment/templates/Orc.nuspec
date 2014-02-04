@@ -16,5 +16,6 @@
 	<tags>wpf silverlight orcomp competitions</tags>
 	<language>en-US</language>
 	<projectUrl>https://github.com/Orcomp/Orc</projectUrl>
+	@dependencies@
   </metadata>
 </package>
